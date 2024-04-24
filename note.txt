@@ -1,0 +1,16 @@
+github url have 2 ways:
+    https: a way need to authenticate (username and password)
+    ssh: this is another method of authentication (give GitHub public SSH key to authenticate)
+
+git log: look all the commits was made (each commit have a commit hash (like an id))
+git reset: 
+    git reset --hard <commit_hash>: go back to one particular commit
+    git reset --hard origin/main: reset to whatever on github
+
+
+một laptop mac apple giá bao nhiêu?
+xem ai học nhóm 1 java
+hỏi thăm btl java còn cần làm cái gì
+tìm ảnh cũ từ facebook Hoàng Hiền
+tìm hiểu version mới nhất của dijango
+discord của cs50w
